@@ -30,7 +30,7 @@ git -C $OPTHOME/Reconocimiento clone https://github.com/vaguileradiaz/tinfoleak.
 git -C $OPTHOME/Reconocimiento clone https://github.com/jopcode/whour
 git -C $OPTHOME/Reconocimiento clone https://github.com/leebaird/discover
 
-git -C $OPTHOME/VulnAnalisis clone https://github.com/inurlx/CLOUDKiLL3R.git
+git -C $OPTHOME/VulnAnalisis clone https://github.com/slowmistio/CLOUDKiLL3R-bypasses-Cloudflare.git
 git -C $OPTHOME/VulnAnalisis clone https://github.com/f4depo/Mercury.git
 git -C $OPTHOME/VulnAnalisis clone https://github.com/urbanadventurer/WhatWeb/
 git -C $OPTHOME/VulnAnalisis clone https://github.com/smicallef/spiderfoot.git
