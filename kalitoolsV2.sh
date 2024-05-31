@@ -24,7 +24,7 @@ git -C $OPTHOME/Reconocimiento clone https://github.com/SecHackLabs/webhackshl.g
 git -C $OPTHOME/Reconocimiento clone https://github.com/elceef/dnstwist.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/ElevenPaths/FOCA.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/wKovacs64/hibp.git
-git -C $OPTHOME/Reconocimiento clone https://github.com/m4ll0k/Infoga.git
+git -C $OPTHOME/Reconocimiento clone https://github.com/GiJ03/Infoga.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/nettitude/Prowl.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/vaguileradiaz/tinfoleak.git
 git -C $OPTHOME/Reconocimiento clone https://github.com/jopcode/whour
